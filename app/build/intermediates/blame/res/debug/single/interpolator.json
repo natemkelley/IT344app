@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/Users/Nate/.android/build-cache/d0d4d909c32b98e9b7ba3cb8fc89be253cd6d924/output/res/interpolator/mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/Users/Nate/.android/build-cache/d0d4d909c32b98e9b7ba3cb8fc89be253cd6d924/output/res/interpolator/mr_fast_out_slow_in.xml"
+    }
+]

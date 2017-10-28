@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/32c5eab9a75f30e775cfde77c6ea4350cf71106c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83635ff89b9b63d0429135a1e21a2de6673619fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/2498da4703ff98a4a373d6071ba73257658e2b77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfdff28ff1285c5799318d71b99f1c5f5735fc53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="382aea972ec9472649f7614fdf733a5393b6a12b">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_333d5bc0540bb87af75b24000491389287cc9279/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d429693d12ed5c52656a3a6c3fdb61f7bcd47cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/a17e0f97d69a564b02663772bfc24dfb5f028652/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4347782319c04f96a96be98104a23f7f4dc7e344/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/d0d4d909c32b98e9b7ba3cb8fc89be253cd6d924/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1320c8f2513943523b34187b915a4f6bfb3372ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/9dd8581490c0eeb34aeb5669bbddae68bba98dfd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cdcc33a6a5ead472bc9e57a30b99807a39ade19a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/67579b852be6a7b77f1ec691eaca6b030e46f9c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e34b8619b1fadd9d3cb364983cff01dbe258a17b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/099c97ee63c56bcdced2cab0f1f1f07bf22f9314/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96ae3a6fb7f33fad5a1d12f458bfffe769374b79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/8699f2ff202eac6db851a76438ecf1bcc5450430/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66c169a2f1b396a71a38eb26531a4d713947e8a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/27812978d2e0cfdce6623797a7a4a58f51984c28/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5029413c05673a87f7b0ffb095a9706e71c493c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/fd0372d30f0cb6e98466467ac6d7cb351bd446c6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96a989e303133a48c3510c088d907d59137b21d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/abdfd08ef824fc703d6d7ebdefa1ae19e436a734/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8dd9fae7f30cb7526024541ce03f02eb5d68955/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/a3c9609fdfe1700133e5a69f424befaebb319b49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_017f029f55c531809ab34f123de6ee3f34325d7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_45cce75d5cc32073a1c5be26e9b2662c47b27e86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/ba00bca61bce2940d19342947bc167c1f78c4d35/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66e81ad7f3f6d5101943e5d3169af38474acca9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/c4af469e94027f937ea14528b71b5647851f3632/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfe67840373d52def159a52b06d5609dddae6351/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/039021f853a43f687c8b4617d171f8a2de5524b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7515257ce9046e32268a6ecd8d389f3e03f10d35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/330d6850b6df603f2e3e0b044cfc7eee0b0df977/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e6dac230edae7c5f64b9d8c34155614d7e2f0ee9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1192a008c89ee39888c7c40a4abc60a0dd76d420/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/5a3058c9dde7bc258f25f5106cfc6a3cd4554efc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_526e9075c45cc7fe9330cef953e08cbb4bb2a48d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/faad78ccc9b34193e724c159b0730e7a9a0f1cb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eef4752d0e802849a674d526f35e150506fd9895/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/9e820a5c7bd2e47b6361eb12f56f1512d0cbf715/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e61376ad56fb7ba45e2bbe590708c8c31a83d45a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/52c63b5244cf7bbb4463943836d3b7c4b0a05594/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d11f5b6ec0f8adf6154d6b33ef51bf03160e23b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/966a6e0611bc74470094b6aeb758a66d017b8b3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f170932eba697ed8b05a7d05b5ed34cb85e889c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/a5f893a7972e802b17bc982a0dd8362ecf55d696/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e1d4f5805115fe80a1e46f740c6d6cfe4c48910/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/bad7c0026605ca255fecdd296c0f009678417986/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44d510bcff5483f1ac485d3363ffbd7ee6d51585/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/05195b41cfd8bc4b386345265f8546517bd25ed9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cdd944066248d1dc5a1a87563fe8392b64d4ead/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/6ce7e0d0e27a3f68264b66ff39627d8a2070d314/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0791a7e482a9da4a048562e1387eb390b9dc636a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/888acd09cf5e7a56bb15c5b85692ebce478f1e6d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37ee6e378939e7134137895b976d1805c4784c4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/7c83e9017fc6fc78f275523d5d09799a1116a900/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_494e660d01b4d6427bce1fe4f2316c1d4d926d12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/d236549ddc50dc0631bc8f9b16aeb47c32f893da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0b8230c74fd268ce359db9d049180838c65ba79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/00361ee7a90fcac88ae158ccc0c9b7ebfc1eea99/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a40f1a0801b0a953b3fe99dacbada0c674a12bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/61956624d067c9cdbc0c6b20c948775c42fcd396/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_95331fb0770ed70e292f5955010f8549c2f5cea2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/1039f3029602f1823e19dad58f8823b1c2da509f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7535c468fd2def591530af893fd86c22d019a105/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/3b6dad399b99cf02946e32226b931141e5b87c4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_798ff8c7d7f95b885b1c762a2524a1ae9922dcc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/d35a2ad4d8b2f015066c001a43da5a085799d8c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17db0d49d6a1399ad93007030e7be3f5a2b0b39f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/151c0458c71f48232790b53bc8050b3b59992e40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bb3214f6629e3c16e036c81b5918e5898c1094b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b12d785ac81b71b3805236fa1d6f7c78118544e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/6046cccd718365bd9d80602200817d4e2a56eba9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07450193c1c907f3148986628bfc884c881698f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/074d65e8ff766b224a19a7ee563a779935b6dcd4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_488cdf91d1c036a3137d348ebba0db97f284d28b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/642b5fc70dc7d15642bb628a945e373be4a175e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24194ab17d4c009ced283e57284ac11d996d0a80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/49df978879f33817ea96674c77a7caada429ba71/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c30e84ac384ff77f35221b0bf9771008a90d0c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/dd61a9a59d87b93f2acaee92840286ad127edfce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e10c5d130bcbdb6fff451e765172b1b378d5465/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/9aafccd8bcdae90f3e2713b86e20b7f71e589c44/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b47a2e810b98377c4a27a4042ddcb92d932b71d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/1fef14cc75609766db96f67b350623c849711456/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc85350c5aea275984384c6ebb849cf67b3758e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/bdba47ad86c9eaeddcf83fce77ba94f78b8ac2b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0cc00a7907eeb32d91e7c49b87b7b706c8aad0a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/746bd7d4cd48e1e1db38bb544be72937e36983a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50635c34a43f7a5226e75b64ce10a34ff05ecbf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/c511637238b20844dafccf2079c2238a700dc08f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb5627b8a9fc4b18991f54ebfe7dd54a2a44f756/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/aa3f49f91ecc5b5636bf0684bbc55bc67535deea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c54afc8e5f51f1498d98066e491ae27da468f25a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/207e2b562fbcabd1ea4d0b8f0bf3cbd36478c3e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8696cbe07e972c55fb275f9085bc8af1aaad715a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/175a9826c1637efcca345f48ff4b9b18b4ad87af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65975e9a73fc8080815ecd574fb2728140066691/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/c99f6094d235802218841b47f07c52d8a12e2461/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a86605af1dca34b91103e2b077f429f1cb527d35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/381cf2731423ab90e06af0113bd5088ca1f337ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_998971299ef58726a2f65b801f6a3436fffda50f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/bed25762d98170e428734f6de0ab8f230856140c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02091d8f9180c7a8f9a25777261f05106140029c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/98e8878981a47561a9457c02829436c5f1a302de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6211e56e13e02ccba49263ed83006df97eea4ebc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/f2c61148dbafc4dbe9238347a039b2ed8d5c24a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5cf1773cfa1a3d8875ec2f5b35534343b52ee2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nate/.android/build-cache/888bdd25513ed7579e085e0da266afb514d6f016/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_639c5f3d8ef75c5e65afef184b8b3a0de6e8d652/classes.dex" />
+    </item>
+
+</items>

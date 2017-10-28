@@ -1,0 +1,4 @@
+#Mon Oct 02 10:17:58 MDT 2017
+base.0=/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

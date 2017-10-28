@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/Users/Nate/.android/build-cache/151c0458c71f48232790b53bc8050b3b59992e40/output/res/drawable-tvdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/Users/Nate/.android/build-cache/151c0458c71f48232790b53bc8050b3b59992e40/output/res/drawable-tvdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/Users/Nate/.android/build-cache/151c0458c71f48232790b53bc8050b3b59992e40/output/res/drawable-tvdpi-v4/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/res/merged/debug/drawable-tvdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/Users/Nate/.android/build-cache/151c0458c71f48232790b53bc8050b3b59992e40/output/res/drawable-tvdpi-v4/ic_plusone_small_off_client.png"
+    }
+]

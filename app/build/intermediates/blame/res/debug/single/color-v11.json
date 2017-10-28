@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Nate/.android/build-cache/00229b7f8205cfd845a3f6dd4c2cf333f9f71129/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/C:\\Users\\cecsr\\AndroidStudioProjects\\IT344Weather\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Nate/AndroidStudioProjects/IT344Weather/C:\\Users\\cecsr\\.android\\build-cache\\225acb3f2c01b241e106d8ee8d9b1ce0b383d325\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Nate/.android/build-cache/00229b7f8205cfd845a3f6dd4c2cf333f9f71129/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/C:\\Users\\cecsr\\AndroidStudioProjects\\IT344Weather\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Nate/AndroidStudioProjects/IT344Weather/C:\\Users\\cecsr\\.android\\build-cache\\225acb3f2c01b241e106d8ee8d9b1ce0b383d325\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

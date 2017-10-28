@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Nate/.android/build-cache/00229b7f8205cfd845a3f6dd4c2cf333f9f71129/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/C:\\Users\\cecsr\\AndroidStudioProjects\\IT344Weather\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "/Users/Nate/AndroidStudioProjects/IT344Weather/C:\\Users\\cecsr\\.android\\build-cache\\225acb3f2c01b241e106d8ee8d9b1ce0b383d325\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Nate/.android/build-cache/00229b7f8205cfd845a3f6dd4c2cf333f9f71129/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/C:\\Users\\cecsr\\AndroidStudioProjects\\IT344Weather\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "/Users/Nate/AndroidStudioProjects/IT344Weather/C:\\Users\\cecsr\\.android\\build-cache\\225acb3f2c01b241e106d8ee8d9b1ce0b383d325\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Nate/.android/build-cache/00229b7f8205cfd845a3f6dd4c2cf333f9f71129/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Nate/.android/build-cache/00229b7f8205cfd845a3f6dd4c2cf333f9f71129/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/Nate/.android/build-cache/ba00bca61bce2940d19342947bc167c1f78c4d35/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/C:\\Users\\cecsr\\AndroidStudioProjects\\IT344Weather\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "/Users/Nate/AndroidStudioProjects/IT344Weather/C:\\Users\\cecsr\\.android\\build-cache\\225acb3f2c01b241e106d8ee8d9b1ce0b383d325\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Nate/AndroidStudioProjects/IT344Weather/C:\\Users\\cecsr\\AndroidStudioProjects\\IT344Weather\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "/Users/Nate/AndroidStudioProjects/IT344Weather/C:\\Users\\cecsr\\.android\\build-cache\\225acb3f2c01b241e106d8ee8d9b1ce0b383d325\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

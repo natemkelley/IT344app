@@ -1,0 +1,469 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:7:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Nate/.android/build-cache/9e820a5c7bd2e47b6361eb12f56f1512d0cbf715/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/Nate/.android/build-cache/32c5eab9a75f30e775cfde77c6ea4350cf71106c/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Nate/.android/build-cache/a3c9609fdfe1700133e5a69f424befaebb319b49/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/Nate/.android/build-cache/f2c61148dbafc4dbe9238347a039b2ed8d5c24a5/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/Nate/.android/build-cache/c4af469e94027f937ea14528b71b5647851f3632/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/Nate/.android/build-cache/6ce7e0d0e27a3f68264b66ff39627d8a2070d314/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/Nate/.android/build-cache/3b6dad399b99cf02946e32226b931141e5b87c4c/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/Nate/.android/build-cache/175a9826c1637efcca345f48ff4b9b18b4ad87af/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/Nate/.android/build-cache/888bdd25513ed7579e085e0da266afb514d6f016/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:7:22-64
+meta-data#com.google.android.gms.version
+ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:9:5-10:65
+	android:value
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:10:9-62
+	android:name
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:9:16-61
+application
+ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:12:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Nate/.android/build-cache/6cf31671262a4ed4c7c38773fa03279dd850f786/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/Nate/.android/build-cache/52c63b5244cf7bbb4463943836d3b7c4b0a05594/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/Nate/.android/build-cache/c511637238b20844dafccf2079c2238a700dc08f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/Nate/.android/build-cache/b1e87daad9dafa094de736594aa75442a9ab1fb2/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Nate/.android/build-cache/9e820a5c7bd2e47b6361eb12f56f1512d0cbf715/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/Nate/.android/build-cache/32c5eab9a75f30e775cfde77c6ea4350cf71106c/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Nate/.android/build-cache/a3c9609fdfe1700133e5a69f424befaebb319b49/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Nate/.android/build-cache/49df978879f33817ea96674c77a7caada429ba71/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Nate/.android/build-cache/d236549ddc50dc0631bc8f9b16aeb47c32f893da/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/Nate/.android/build-cache/61956624d067c9cdbc0c6b20c948775c42fcd396/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/Nate/.android/build-cache/d0d4d909c32b98e9b7ba3cb8fc89be253cd6d924/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Nate/.android/build-cache/00229b7f8205cfd845a3f6dd4c2cf333f9f71129/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/Nate/.android/build-cache/4e3dea19e9ab05e91f7a28a6c50e47c5591220b2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/Nate/.android/build-cache/1c335a7c371561afad109e5843dba69985a07a6b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/Nate/.android/build-cache/bed25762d98170e428734f6de0ab8f230856140c/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/Nate/.android/build-cache/67579b852be6a7b77f1ec691eaca6b030e46f9c4/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/Nate/.android/build-cache/2498da4703ff98a4a373d6071ba73257658e2b77/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/Nate/.android/build-cache/fd0372d30f0cb6e98466467ac6d7cb351bd446c6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/Nate/.android/build-cache/f2c61148dbafc4dbe9238347a039b2ed8d5c24a5/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/Nate/.android/build-cache/1fef14cc75609766db96f67b350623c849711456/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/Nate/.android/build-cache/c99f6094d235802218841b47f07c52d8a12e2461/output/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Nate/.android/build-cache/05195b41cfd8bc4b386345265f8546517bd25ed9/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/Nate/.android/build-cache/a17e0f97d69a564b02663772bfc24dfb5f028652/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/Nate/.android/build-cache/039021f853a43f687c8b4617d171f8a2de5524b7/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/Nate/.android/build-cache/099c97ee63c56bcdced2cab0f1f1f07bf22f9314/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/Nate/.android/build-cache/aa3f49f91ecc5b5636bf0684bbc55bc67535deea/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/Nate/.android/build-cache/c4af469e94027f937ea14528b71b5647851f3632/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/Nate/.android/build-cache/7c83e9017fc6fc78f275523d5d09799a1116a900/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/Nate/.android/build-cache/6ce7e0d0e27a3f68264b66ff39627d8a2070d314/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/Nate/.android/build-cache/9dd8581490c0eeb34aeb5669bbddae68bba98dfd/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/Nate/.android/build-cache/bad7c0026605ca255fecdd296c0f009678417986/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/Nate/.android/build-cache/381cf2731423ab90e06af0113bd5088ca1f337ff/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/Nate/.android/build-cache/ba00bca61bce2940d19342947bc167c1f78c4d35/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/Nate/.android/build-cache/151c0458c71f48232790b53bc8050b3b59992e40/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/Nate/.android/build-cache/642b5fc70dc7d15642bb628a945e373be4a175e1/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/Nate/.android/build-cache/3b6dad399b99cf02946e32226b931141e5b87c4c/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/Nate/.android/build-cache/8699f2ff202eac6db851a76438ecf1bcc5450430/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/Nate/.android/build-cache/27812978d2e0cfdce6623797a7a4a58f51984c28/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/Nate/.android/build-cache/175a9826c1637efcca345f48ff4b9b18b4ad87af/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/Nate/.android/build-cache/d35a2ad4d8b2f015066c001a43da5a085799d8c3/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/Nate/.android/build-cache/330d6850b6df603f2e3e0b044cfc7eee0b0df977/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/Nate/.android/build-cache/bdba47ad86c9eaeddcf83fce77ba94f78b8ac2b3/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/Nate/.android/build-cache/888bdd25513ed7579e085e0da266afb514d6f016/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/Nate/.android/build-cache/abdfd08ef824fc703d6d7ebdefa1ae19e436a734/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/Nate/.android/build-cache/207e2b562fbcabd1ea4d0b8f0bf3cbd36478c3e5/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/Nate/.android/build-cache/966a6e0611bc74470094b6aeb758a66d017b8b3e/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/Nate/.android/build-cache/888acd09cf5e7a56bb15c5b85692ebce478f1e6d/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/Nate/.android/build-cache/534ff6f7b506b58af20589d2e330b71e6b35bdaf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/Nate/.android/build-cache/0ec2421d77f7662fdcc513a9ef80a40fd6e80a06/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/Nate/.android/build-cache/9fe491ffa1d10b808ed0f08c3db3c1da358264f8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/Nate/.android/build-cache/d2b4d2a430187ab13a7cd1ebfa28db6a6cdafeed/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/Nate/.android/build-cache/6ea087d9fe6d9ab14dbc83551c349781d4effce3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/Nate/.android/build-cache/ef98e11ddfa0e5ab7ac334fd34da7dd86e2072ee/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:18:9-40
+activity#kelley.nate.it344weather.MainActivity
+ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:21:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Nate/.android/build-cache/6cf31671262a4ed4c7c38773fa03279dd850f786/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] /Users/Nate/.android/build-cache/52c63b5244cf7bbb4463943836d3b7c4b0a05594/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/Nate/.android/build-cache/9aafccd8bcdae90f3e2713b86e20b7f71e589c44/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/Nate/.android/build-cache/c511637238b20844dafccf2079c2238a700dc08f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/Nate/.android/build-cache/b1e87daad9dafa094de736594aa75442a9ab1fb2/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/Nate/.android/build-cache/5a3058c9dde7bc258f25f5106cfc6a3cd4554efc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Nate/.android/build-cache/9e820a5c7bd2e47b6361eb12f56f1512d0cbf715/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/Nate/.android/build-cache/32c5eab9a75f30e775cfde77c6ea4350cf71106c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Nate/.android/build-cache/a3c9609fdfe1700133e5a69f424befaebb319b49/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /Users/Nate/.android/build-cache/1039f3029602f1823e19dad58f8823b1c2da509f/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Nate/.android/build-cache/49df978879f33817ea96674c77a7caada429ba71/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/Nate/.android/build-cache/a5f893a7972e802b17bc982a0dd8362ecf55d696/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Nate/.android/build-cache/d236549ddc50dc0631bc8f9b16aeb47c32f893da/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/Nate/.android/build-cache/61956624d067c9cdbc0c6b20c948775c42fcd396/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/Nate/.android/build-cache/d0d4d909c32b98e9b7ba3cb8fc89be253cd6d924/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Nate/.android/build-cache/00229b7f8205cfd845a3f6dd4c2cf333f9f71129/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/Nate/.android/build-cache/4e3dea19e9ab05e91f7a28a6c50e47c5591220b2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/Nate/.android/build-cache/1c335a7c371561afad109e5843dba69985a07a6b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/Nate/.android/build-cache/bed25762d98170e428734f6de0ab8f230856140c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/Nate/.android/build-cache/67579b852be6a7b77f1ec691eaca6b030e46f9c4/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/Nate/.android/build-cache/2498da4703ff98a4a373d6071ba73257658e2b77/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/Nate/.android/build-cache/fd0372d30f0cb6e98466467ac6d7cb351bd446c6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/Nate/.android/build-cache/f2c61148dbafc4dbe9238347a039b2ed8d5c24a5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/Nate/.android/build-cache/1fef14cc75609766db96f67b350623c849711456/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/Nate/.android/build-cache/faad78ccc9b34193e724c159b0730e7a9a0f1cb7/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/Nate/.android/build-cache/074d65e8ff766b224a19a7ee563a779935b6dcd4/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/Nate/.android/build-cache/c99f6094d235802218841b47f07c52d8a12e2461/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Nate/.android/build-cache/05195b41cfd8bc4b386345265f8546517bd25ed9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/Nate/.android/build-cache/00361ee7a90fcac88ae158ccc0c9b7ebfc1eea99/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/Nate/.android/build-cache/dd61a9a59d87b93f2acaee92840286ad127edfce/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/Nate/.android/build-cache/a17e0f97d69a564b02663772bfc24dfb5f028652/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/Nate/.android/build-cache/039021f853a43f687c8b4617d171f8a2de5524b7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/Nate/.android/build-cache/099c97ee63c56bcdced2cab0f1f1f07bf22f9314/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/Nate/.android/build-cache/aa3f49f91ecc5b5636bf0684bbc55bc67535deea/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/Nate/.android/build-cache/c4af469e94027f937ea14528b71b5647851f3632/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/Nate/.android/build-cache/7c83e9017fc6fc78f275523d5d09799a1116a900/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/Nate/.android/build-cache/6ce7e0d0e27a3f68264b66ff39627d8a2070d314/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /Users/Nate/.android/build-cache/98e8878981a47561a9457c02829436c5f1a302de/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/Nate/.android/build-cache/9dd8581490c0eeb34aeb5669bbddae68bba98dfd/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/Nate/.android/build-cache/bad7c0026605ca255fecdd296c0f009678417986/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/Nate/.android/build-cache/381cf2731423ab90e06af0113bd5088ca1f337ff/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/Nate/.android/build-cache/ba00bca61bce2940d19342947bc167c1f78c4d35/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/Nate/.android/build-cache/151c0458c71f48232790b53bc8050b3b59992e40/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/Nate/.android/build-cache/642b5fc70dc7d15642bb628a945e373be4a175e1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /Users/Nate/.android/build-cache/746bd7d4cd48e1e1db38bb544be72937e36983a8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/Nate/.android/build-cache/3b6dad399b99cf02946e32226b931141e5b87c4c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/Nate/.android/build-cache/8699f2ff202eac6db851a76438ecf1bcc5450430/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/Nate/.android/build-cache/27812978d2e0cfdce6623797a7a4a58f51984c28/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/Nate/.android/build-cache/175a9826c1637efcca345f48ff4b9b18b4ad87af/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/Nate/.android/build-cache/d35a2ad4d8b2f015066c001a43da5a085799d8c3/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/Nate/.android/build-cache/330d6850b6df603f2e3e0b044cfc7eee0b0df977/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /Users/Nate/.android/build-cache/6046cccd718365bd9d80602200817d4e2a56eba9/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/Nate/.android/build-cache/bdba47ad86c9eaeddcf83fce77ba94f78b8ac2b3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/Nate/.android/build-cache/888bdd25513ed7579e085e0da266afb514d6f016/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/Nate/.android/build-cache/abdfd08ef824fc703d6d7ebdefa1ae19e436a734/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/Nate/.android/build-cache/207e2b562fbcabd1ea4d0b8f0bf3cbd36478c3e5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/Nate/.android/build-cache/966a6e0611bc74470094b6aeb758a66d017b8b3e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/Nate/.android/build-cache/888acd09cf5e7a56bb15c5b85692ebce478f1e6d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/Nate/.android/build-cache/534ff6f7b506b58af20589d2e330b71e6b35bdaf/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/Nate/.android/build-cache/0ec2421d77f7662fdcc513a9ef80a40fd6e80a06/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/Nate/.android/build-cache/9fe491ffa1d10b808ed0f08c3db3c1da358264f8/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/Nate/.android/build-cache/d2b4d2a430187ab13a7cd1ebfa28db6a6cdafeed/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/Nate/.android/build-cache/6ea087d9fe6d9ab14dbc83551c349781d4effce3/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/Nate/.android/build-cache/ef98e11ddfa0e5ab7ac334fd34da7dd86e2072ee/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/Nate/.android/build-cache/52c63b5244cf7bbb4463943836d3b7c4b0a05594/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nate/AndroidStudioProjects/IT344Weather/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] /Users/Nate/.android/build-cache/52c63b5244cf7bbb4463943836d3b7c4b0a05594/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/Nate/.android/build-cache/9aafccd8bcdae90f3e2713b86e20b7f71e589c44/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/Nate/.android/build-cache/c511637238b20844dafccf2079c2238a700dc08f/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/Nate/.android/build-cache/00229b7f8205cfd845a3f6dd4c2cf333f9f71129/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/Nate/.android/build-cache/4e3dea19e9ab05e91f7a28a6c50e47c5591220b2/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/Nate/.android/build-cache/1c335a7c371561afad109e5843dba69985a07a6b/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/Nate/.android/build-cache/534ff6f7b506b58af20589d2e330b71e6b35bdaf/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/Nate/.android/build-cache/0ec2421d77f7662fdcc513a9ef80a40fd6e80a06/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/Nate/.android/build-cache/9fe491ffa1d10b808ed0f08c3db3c1da358264f8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/Nate/.android/build-cache/d2b4d2a430187ab13a7cd1ebfa28db6a6cdafeed/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/Nate/.android/build-cache/6ea087d9fe6d9ab14dbc83551c349781d4effce3/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/Nate/.android/build-cache/ef98e11ddfa0e5ab7ac334fd34da7dd86e2072ee/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/Nate/.android/build-cache/52c63b5244cf7bbb4463943836d3b7c4b0a05594/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] /Users/Nate/.android/build-cache/52c63b5244cf7bbb4463943836d3b7c4b0a05594/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Nate/.android/build-cache/9e820a5c7bd2e47b6361eb12f56f1512d0cbf715/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/Nate/.android/build-cache/32c5eab9a75f30e775cfde77c6ea4350cf71106c/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/Nate/.android/build-cache/bad7c0026605ca255fecdd296c0f009678417986/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/Nate/.android/build-cache/3b6dad399b99cf02946e32226b931141e5b87c4c/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/Nate/.android/build-cache/175a9826c1637efcca345f48ff4b9b18b4ad87af/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/Nate/.android/build-cache/888bdd25513ed7579e085e0da266afb514d6f016/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Nate/.android/build-cache/9e820a5c7bd2e47b6361eb12f56f1512d0cbf715/output/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Nate/.android/build-cache/9e820a5c7bd2e47b6361eb12f56f1512d0cbf715/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Nate/.android/build-cache/9e820a5c7bd2e47b6361eb12f56f1512d0cbf715/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Nate/.android/build-cache/9e820a5c7bd2e47b6361eb12f56f1512d0cbf715/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/Nate/.android/build-cache/9e820a5c7bd2e47b6361eb12f56f1512d0cbf715/output/AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/Nate/.android/build-cache/32c5eab9a75f30e775cfde77c6ea4350cf71106c/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/Nate/.android/build-cache/3b6dad399b99cf02946e32226b931141e5b87c4c/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/Nate/.android/build-cache/175a9826c1637efcca345f48ff4b9b18b4ad87af/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/Nate/.android/build-cache/32c5eab9a75f30e775cfde77c6ea4350cf71106c/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Nate/.android/build-cache/a3c9609fdfe1700133e5a69f424befaebb319b49/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Nate/.android/build-cache/a3c9609fdfe1700133e5a69f424befaebb319b49/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Nate/.android/build-cache/a3c9609fdfe1700133e5a69f424befaebb319b49/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Nate/.android/build-cache/a3c9609fdfe1700133e5a69f424befaebb319b49/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Nate/.android/build-cache/a3c9609fdfe1700133e5a69f424befaebb319b49/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Nate/.android/build-cache/a3c9609fdfe1700133e5a69f424befaebb319b49/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Nate/.android/build-cache/a3c9609fdfe1700133e5a69f424befaebb319b49/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Nate/.android/build-cache/a3c9609fdfe1700133e5a69f424befaebb319b49/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/Nate/.android/build-cache/a3c9609fdfe1700133e5a69f424befaebb319b49/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Nate/.android/build-cache/49df978879f33817ea96674c77a7caada429ba71/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Nate/.android/build-cache/49df978879f33817ea96674c77a7caada429ba71/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Nate/.android/build-cache/49df978879f33817ea96674c77a7caada429ba71/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Nate/.android/build-cache/49df978879f33817ea96674c77a7caada429ba71/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Nate/.android/build-cache/49df978879f33817ea96674c77a7caada429ba71/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Nate/.android/build-cache/49df978879f33817ea96674c77a7caada429ba71/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Nate/.android/build-cache/49df978879f33817ea96674c77a7caada429ba71/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Nate/.android/build-cache/49df978879f33817ea96674c77a7caada429ba71/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/Nate/.android/build-cache/49df978879f33817ea96674c77a7caada429ba71/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Nate/.android/build-cache/d236549ddc50dc0631bc8f9b16aeb47c32f893da/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Nate/.android/build-cache/d236549ddc50dc0631bc8f9b16aeb47c32f893da/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Nate/.android/build-cache/d236549ddc50dc0631bc8f9b16aeb47c32f893da/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Nate/.android/build-cache/d236549ddc50dc0631bc8f9b16aeb47c32f893da/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Nate/.android/build-cache/d236549ddc50dc0631bc8f9b16aeb47c32f893da/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/Nate/.android/build-cache/d236549ddc50dc0631bc8f9b16aeb47c32f893da/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Nate/.android/build-cache/05195b41cfd8bc4b386345265f8546517bd25ed9/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Nate/.android/build-cache/05195b41cfd8bc4b386345265f8546517bd25ed9/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Nate/.android/build-cache/05195b41cfd8bc4b386345265f8546517bd25ed9/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Nate/.android/build-cache/05195b41cfd8bc4b386345265f8546517bd25ed9/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Nate/.android/build-cache/05195b41cfd8bc4b386345265f8546517bd25ed9/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Nate/.android/build-cache/05195b41cfd8bc4b386345265f8546517bd25ed9/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/Nate/.android/build-cache/05195b41cfd8bc4b386345265f8546517bd25ed9/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/Nate/.android/build-cache/c4af469e94027f937ea14528b71b5647851f3632/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/Nate/.android/build-cache/6ce7e0d0e27a3f68264b66ff39627d8a2070d314/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/Nate/.android/build-cache/c4af469e94027f937ea14528b71b5647851f3632/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/Nate/.android/build-cache/79c42d4e51cc7a40ca729fb28ae54f2916397b79/output/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/Nate/.android/build-cache/3b6dad399b99cf02946e32226b931141e5b87c4c/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/Nate/.android/build-cache/3b6dad399b99cf02946e32226b931141e5b87c4c/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/Nate/.android/build-cache/95c572b49d236b17d830a13dff23706bc78159e2/output/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/Nate/.android/build-cache/f505be9ca7240071d1433a0ea2f89cde23686e05/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/Nate/.android/build-cache/8699f2ff202eac6db851a76438ecf1bcc5450430/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/Nate/.android/build-cache/8699f2ff202eac6db851a76438ecf1bcc5450430/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/Nate/.android/build-cache/8699f2ff202eac6db851a76438ecf1bcc5450430/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/Nate/.android/build-cache/8699f2ff202eac6db851a76438ecf1bcc5450430/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/Nate/.android/build-cache/8699f2ff202eac6db851a76438ecf1bcc5450430/output/AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/Nate/.android/build-cache/888bdd25513ed7579e085e0da266afb514d6f016/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/Nate/.android/build-cache/888bdd25513ed7579e085e0da266afb514d6f016/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/Nate/.android/build-cache/888bdd25513ed7579e085e0da266afb514d6f016/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/Nate/.android/build-cache/207e2b562fbcabd1ea4d0b8f0bf3cbd36478c3e5/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/Nate/.android/build-cache/207e2b562fbcabd1ea4d0b8f0bf3cbd36478c3e5/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/Nate/.android/build-cache/207e2b562fbcabd1ea4d0b8f0bf3cbd36478c3e5/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/Nate/.android/build-cache/207e2b562fbcabd1ea4d0b8f0bf3cbd36478c3e5/output/AndroidManifest.xml:19:19-85
