@@ -22,6 +22,8 @@ public class DownloadTask extends AsyncTask<String,Void,String> {
         URL link;
         HttpURLConnection myconnection = null;
 
+
+        //make a remote api connectino to weather service
         try {
             link = new URL(urls[0]);
             myconnection = (HttpURLConnection)link.openConnection();
@@ -46,21 +48,35 @@ public class DownloadTask extends AsyncTask<String,Void,String> {
         super.onPostExecute(s);
 
         try {
+            //create json object from remote api call data
             JSONObject myObject = new JSONObject(result);
             JSONObject main = new JSONObject(myObject.getString("main"));
             Double datTemperature = Double.parseDouble(main.getString("temp"));
+
+            //convert to farenhieght
             int temperature = (int)(datTemperature*1.8-459.67);
 
             String placeName = myObject.getString("name");
 
+            //set standard text
             MainActivity.place.setText(placeName);
             MainActivity.temperature.setText(String.valueOf(temperature));
 
+            //get current time
             int currentDateTimeString = DateFormat.getDateTimeInstance().format(new java.util.());
             String timeofday = "";
             String finaltimeandweather = "";
             String finalactivy = "";
 
+
+            if (temperature <= 120){ finaltimeandweather =" super hot";}
+            else if(temperature <= 85){finaltimeandweather ="very hot";}
+            else if(temperature <= 75){finaltimeandweather ="warm";}
+            else if(temperature <= 55){finaltimeandweather ="nice temperature";}
+            else if(temperature <= 35){finaltimeandweather ="cold";}
+            else if(temperature <= 25){finaltimeandweather ="dang cold";}
+
+            //if statement to create string
             if (currentDateTimeString <= 12){
                 timeofday = "Morning";
                 if (temperature <= 120){ finalactivy ="Go eat ice cream!";}
@@ -99,6 +115,8 @@ public class DownloadTask extends AsyncTask<String,Void,String> {
                 else if(temperature <= 25){finalactivy ="Movie and popcorn!";}
             }
 
+            //set final string and change text
+            finaltimeandweather = timeofday + "" + finaltimeandweather;
             MainActivity.timeandweather.setText(finaltimeandweather);
             MainActivity.activiy.setText(finalactivy);
 
