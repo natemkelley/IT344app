@@ -1,2 +1,3 @@
 # IT344-app
-# IT344app
+
+### Weather Application that will change given device location
